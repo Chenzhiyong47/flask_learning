@@ -30,6 +30,9 @@
 </div>	
 {% endblock %}
 
-
+{% block scipts %}
+{{ super() }}
+{{ moment.include_moment() }}
+{% endblock %}
 
 
