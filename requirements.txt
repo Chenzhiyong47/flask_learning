@@ -15,7 +15,7 @@ RPi.GPIO==0.6.3
 RTIMULib==7.2.1
 SQLAlchemy==1.1.12
 WTForms==2.1
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 alembic==0.9.4
 blinker==1.4
 chardet==2.3.0
