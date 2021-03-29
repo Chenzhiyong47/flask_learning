@@ -10,7 +10,7 @@ Jinja2==2.7.3
 Mako==1.0.7
 MarkupSafe==0.23
 Pillow==2.6.1
-Pygments==2.2.0
+Pygments==2.7.4
 RPi.GPIO==0.6.3
 RTIMULib==7.2.1
 SQLAlchemy==1.1.12
