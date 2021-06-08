@@ -9,7 +9,7 @@ Flask-WTF==0.14.2
 Jinja2==2.7.3
 Mako==1.0.7
 MarkupSafe==0.23
-Pillow==2.6.1
+Pillow==8.2.0
 Pygments==2.2.0
 RPi.GPIO==0.6.3
 RTIMULib==7.2.1
